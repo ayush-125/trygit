@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi
+=======
+hi
+hello
+>>>>>>> branch1
